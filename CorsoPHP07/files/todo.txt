@@ -1,0 +1,8 @@
+pane
+latte
+pane
+biscotti
+vino
+salame
+insalata
+yogurt
